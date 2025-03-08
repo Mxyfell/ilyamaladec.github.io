@@ -1,0 +1,28 @@
+html {
+    text-align: center;
+    background-color: #852c2c;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main_title{
+    padding: 15px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#pre-ponos{
+    padding-top: 100px;
+}
+#ponos{
+    text-size-adjust: 563px;
+}
+img{
+    padding-top: 25px;
+}
+button{
+    padding-top: 35px;
+    padding-left: 155px;
+}
+img{
+    border-radius: 75px;
+}
